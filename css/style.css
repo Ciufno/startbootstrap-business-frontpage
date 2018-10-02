@@ -1,0 +1,19 @@
+.navigation-bar {
+    background-color: #0089C3;
+}
+
+.navbar-item {
+    color: #ffffff!important
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.navbar-toggler-icon {
+    color: #ffffff;
+}
+
+.navbar-toggler {
+    border:1px solid white;
+}
